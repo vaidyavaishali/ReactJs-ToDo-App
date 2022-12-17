@@ -1,0 +1,82 @@
+h1 {
+    color: #27aedb;
+    text-align: center;
+    }
+    
+
+button{
+    color: #27aedb;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+}
+
+.bg-pink{
+	background-color:pink;
+}
+.form-div{
+     width: 600px;
+     margin-left: 300px;
+      
+}
+.task-input{
+    width: 400px;
+    height: 47px;
+    border-radius: 30px;
+     position: relative;
+     padding: 20px;
+     box-sizing: border-box;
+     background-color: burlywood;
+     font-size : 20px;
+}
+.button-add{
+    height: 40px;
+    width: 82px;
+    position: absolute;
+    left:620px;
+    top:11px;
+    border-radius: 30px;
+    background-color: brown;
+    color:white
+}
+
+.list{
+    width: 360px;
+    height: 40px;
+    margin-top: 10px;
+    border-radius: 30px;
+    background-color:pink;
+    border: none;
+    padding: 20px; 
+    box-sizing: border-box;
+    font-size : 15px;
+
+   
+}
+.btn-edit{
+    height: 30px;
+    width: 50px;
+    border-radius: 70px;
+    position: absolute;
+   left:250px;
+     top:15px;
+    background-color: rgb(240, 102, 125);
+    border: none;
+   color:black
+
+}
+.btn-dlt{
+    height: 30px;
+    width: 50px;
+    border-radius: 70px;
+    position: absolute;
+   left:300px;
+    top:15px;
+    background-color:  rgb(240, 102, 125);
+    border: none;
+   color:black
+}
+li{
+    list-style: none;
+    position: relative;
+}
